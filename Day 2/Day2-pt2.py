@@ -1,4 +1,3 @@
-
 # ======= Advent of Code day 2 =======
 import sys
 import fileinput

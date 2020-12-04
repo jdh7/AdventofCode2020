@@ -31,10 +31,10 @@ def elf_maps(graph, interval, d_interval=1):
     return count
 
 
-a = elf_maps(df, 1, 1)
-b = elf_maps(df, 3, 1)
-c = elf_maps(df, 5, 1)
-d = elf_maps(df, 7, 1)
+a = elf_maps(df, 1)
+b = elf_maps(df, 3)
+c = elf_maps(df, 5)
+d = elf_maps(df, 7)
 e = elf_maps(df, 1, 2)
 
 

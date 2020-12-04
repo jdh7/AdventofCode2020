@@ -52,7 +52,7 @@ def elfchecker(graph):
             count += 1
         else:
             pass
-    print("There's fhfhfhfh {} trees".format(count))
+    print("There's {} trees".format(count))
 
 
 
